@@ -6,3 +6,5 @@ File has been edited for new release.
 Second commit.
 ----------------------------------------------------
 Thisrd Commit.
+---------------------------------------------------
+Edited from new branch head.
